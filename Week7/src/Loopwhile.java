@@ -2,8 +2,8 @@
 public class Loopwhile {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 	{
+		
 		//For
 		System.out.print("\nFor :");
 		for(int i=0; i<=5;i++) {
@@ -12,7 +12,7 @@ public class Loopwhile {
 		}
 		System.out.println();
 		}
-		
+	
 		//While
 		System.out.print("\nWhile :");
 		int i=0;
@@ -25,7 +25,7 @@ public class Loopwhile {
 		System.out.println();
 		i++;
 		}
-		
+	
 		//Do While
 		System.out.println("\nDoWhile :");
 		int a=0;
@@ -41,6 +41,7 @@ public class Loopwhile {
 	}		
 	
 	{
+		
 		//For
 		System.out.println("\nFor :");
 		for(int i=0; i<=5;i++) {
@@ -49,7 +50,7 @@ public class Loopwhile {
 		}
 		System.out.println();
 		}
-		
+	
 		//While
 		System.out.println("\nWhile :");
 		int i=0;
@@ -76,6 +77,7 @@ public class Loopwhile {
 		System.out.println();
 		}while (a<5);
 	}
+
 }
 }
 
